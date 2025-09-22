@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 **I’m currently working on**  <br>- PostPro – AI-powered LinkedIn post generator  <br>- Assignment Generator – Smart AI tool for quick assignments  <br>- Post Verification Tool – Detect real vs AI-generated content  <br><br>🤝 **I’m looking to collaborate on**  <br>- AI agents & no-code tools  <br>- SaaS platforms with AI  <br><br>🙌 **I’m looking for help with**  <br>- Scaling AI on AWS  <br>- Better UI/UX for AI apps  <br><br>🌱 **I’m currently learning**  <br>- Generative & Agentic AI  <br>- LangChain, Flutter, Node.js  <br><br>💬 **Ask me about**  <br>- AI agents, no-code automation, SaaS building  <br><br>⚡ **Fun fact**  <br>I simplify AI so anyone can use it! 
+👋 About Me
+
+Hi, I’m Abdul Hadi — passionate about building AI-powered tools that make a real impact. 🚀
+
+🎓 Background in Artificial Intelligence with hands-on experience in Python, Node.js, and Flutter.
+
+💡 Currently working on projects like PostPro (an AI-powered LinkedIn post generator) and a content authenticity verification tool for social media.
+
+🌍 Interested in Agentic AI, Generative AI, and automation workflows (n8n).
+
+☁️ Exploring AWS cloud services for scalable AI deployments.
+
+🤝 Love collaborating on open-source projects and sharing knowledge.
+
+⚡ Fun fact: I’m always experimenting with new AI ideas that can help society and solve real-world problems.
 
 
 # 💻 Tech Stack:
