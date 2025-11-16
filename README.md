@@ -7,9 +7,8 @@ Hi, I’m Abdul Hadi — passionate about building AI-powered tools that make a 
 
 💡 Currently working on projects like PostPro (an AI-powered LinkedIn post generator) and a content authenticity verification tool for social media.
 
-🌍 Interested in Agentic AI, Generative AI, and automation workflows (n8n).
+🌍  Agentic AI, Generative AI, and automation workflows (n8n).
 
-☁️ Exploring AWS cloud services for scalable AI deployments.
 
 🤝 Love collaborating on open-source projects and sharing knowledge.
 
